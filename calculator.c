@@ -25,8 +25,6 @@ int main(){
             case 4: 
             printf("Division of the given two number is %d and remaider came on dividing is %d",(a/b),(a%b));
             break;
-           // case 5:
-           //5 exit(1);
             default:
             printf("Enter valid choice!");
             break;
